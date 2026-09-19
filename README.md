@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm **Shaban Naeem**, an IT Management graduate based in **Lahore, Pakistan**, currently working as a **Data Annotator** in the IT industry. Alongside my day-to-day work, I bring hands-on skills in **Graphics Designing** and **Web Designing**, and I communicate professionally in **English** and **Urdu**.
+I'm **Usman Tahir**, an IT Management graduate based in **Lahore, Pakistan**, currently working as a **Data Analyst** in the  CAPPERSOFT. Alongside my day-to-day work, I bring hands-on skills in **Graphics Designing** and **Web Designing**, and I communicate professionally in **English** and **Urdu**.
 
 I care about clean workflows, clear communication, and dependable results — whether that's managing datasets, designing a logo, or writing production code. My goal is to build a strong foundation in software development while keeping the detail-oriented, collaborative approach that already defines my work.
 
